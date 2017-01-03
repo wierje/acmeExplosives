@@ -1,0 +1,49 @@
+{
+    "types": [
+
+        {
+            "id": 0,
+            "category": 0,
+            "name": "low altitude",
+            "description": "Fireworks safe for all ages."
+        },
+
+        {
+            "id": 1,
+            "category": 0,
+            "name": "mid altitude",
+            "description": "Fireworks intended for adult supervision."
+        },
+
+        {
+            "id": 2,
+            "category": 0,
+            "name": "high altitude",
+            "description": "Professional use only."
+        },
+
+
+
+        {
+            "id": 3,
+            "category": 1,
+            "name": "light",
+            "description": "Demolition grade for cars."
+        },
+
+        {
+            "id": 4,
+            "category": 1,
+            "name": "medium",
+            "description": "Demolition grade for bridges."
+        },
+
+        {
+            "id": 5,
+            "category": 1,
+            "name": "heavy",
+            "description": "Demolition grade for buildings."
+        }
+
+    ]
+}
