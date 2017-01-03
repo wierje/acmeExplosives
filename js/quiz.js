@@ -1,4 +1,4 @@
-$(function() {
+jQuery(document).ready(function($) {
     // The DOM is ready!
     // The rest of your code goes here!
     console.log('ready');
@@ -153,4 +153,4 @@ $(function() {
 
 
 
-}); //end
+}(jQuery)); //end
